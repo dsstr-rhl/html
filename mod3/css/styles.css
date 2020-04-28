@@ -38,7 +38,7 @@ body {
   color: white;
   background-color: grey;
   border: 2px solid black;
-  text-align: centre;
+  text-align: center;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
